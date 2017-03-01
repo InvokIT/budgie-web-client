@@ -6,10 +6,18 @@
     "react-scripts": "0.8.5"
   },
   "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "base-64": "^0.1.0",
+    "lodash": "^4.17.4",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "rxjs": "^5.0.3",
+    "stanza.io": "^8.1.1",
     "sw-precache": "^4.3.0",
-    "xmpp-ftw": "^2.0.0"
+    "utf8": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
